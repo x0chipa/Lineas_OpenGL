@@ -1,3 +1,10 @@
 # Lineas_OpenGL
-Dubujo en C
-![image](https://user-images.githubusercontent.com/68248983/209741593-6dc0166f-7d7f-4348-ac44-c9f3647f4c5e.png)
+Dubujo en C++ usando la funcion
+  * GL_LINES
+  * GL_LINE_STRIP
+  * GL_LINE_LOOP
+  * GL_POINTS
+
+
+
+![image](https://user-images.githubusercontent.com/68248983/209741678-fc24598a-211b-4aa9-85b6-ced1de3f8eba.png)
